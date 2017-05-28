@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "War App/AppDelegate.swift"
+            timestampString = "517659797.979657"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.AppDelegate.__deallocating_deinit"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/AppDelegate.swift"
+                  timestampString = "517659797.990869"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.AppDelegate.init () -&gt; War_App.AppDelegate"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/AppDelegate.swift"
+                  timestampString = "517659797.994093"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.AppDelegate.__allocating_init () -&gt; War_App.AppDelegate"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/AppDelegate.swift"
+                  timestampString = "517659797.995675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/AppDelegate.swift"
+                  timestampString = "517659797.997133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "War App/ViewController.swift"
+            timestampString = "517668462.529626"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.ViewController.leftsc.getter : Swift.Int"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/ViewController.swift"
+                  timestampString = "517668310.045342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.ViewController.leftsc.setter : Swift.Int"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/ViewController.swift"
+                  timestampString = "517668310.047391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; War_App.ViewController"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/ViewController.swift"
+                  timestampString = "517668310.049338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "338">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "War_App.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;War_App.ViewController&gt;"
+                  moduleName = "War App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/edmondshao/Desktop/War%20App/War%20App/ViewController.swift"
+                  timestampString = "517668310.051001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "235">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "War App/ViewController.swift"
+            timestampString = "517668419.213279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
